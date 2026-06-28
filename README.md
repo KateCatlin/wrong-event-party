@@ -11,8 +11,8 @@ A planning workspace for Kate's August 1 birthday party: a "dress for the wrong 
 - Guest ask: Dress up for the event you wish you were attending instead
 - Invites: Sent
 - Current headcount: 14-15 yeses so far, with more invites planned
-- Food and drinks: Snacks provided; guests encouraged to bring drinks
-- Activities: Games from holidays that are not on August 1
+- Food and drinks: Simple delivery/snack plan, non-alcohol-forward basics, and guests encouraged to bring drinks
+- Activities: Aggressively hosted holiday/event-themed games from dates that are not August 1
 
 ## Partiful description
 
@@ -21,7 +21,13 @@ See [partiful-description.md](partiful-description.md) for the current event cop
 ## Planning docs
 
 - [Shopping list](shopping-list.md)
+- [Food plan](food-plan.md)
 - [Activities and run of show](activities.md)
+- [Three wrong-event activity ideas](wrong-event-activity-ideas.md)
+- [Photo backdrop analysis](photo-backdrop-analysis.md)
+- [Decor and awards plan](decor-awards.md)
+- [Day-of checklist](day-of-checklist.md)
+- [Christmas caroling group analysis](caroling-analysis.md)
 
 ## Costume ideas
 
@@ -48,12 +54,12 @@ See [partiful-description.md](partiful-description.md) for the current event cop
 - Confirm time
 - Build guest list
 - Send Partiful: done
-- Decide snack plan
-- Decide drink plan and what guests should bring
-- Pick "wrong holiday" games
-- Decide decorations
+- Choose final food order from the food plan
+- Order the winning photo backdrop
+- Choose final activity lineup
+- Decide whether to skip or hire Christmas carolers
+- Decide final decorations and awards
 - Decide music
-- Decide whether there should be prizes for best wrong event fit
 - Buy supplies
 
 ## Game ideas to explore
