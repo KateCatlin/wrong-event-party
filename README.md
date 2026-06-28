@@ -4,17 +4,24 @@ A planning workspace for Kate's August 1 birthday party: a "dress for the wrong 
 
 ## Event brief
 
-- Date: August 1
+- Date: 8/1
 - Occasion: Kate's birthday party
 - Theme: Dress for the wrong event
 - Vibe: Maximally goofy, elaborate, committed to the bit
 - Guest ask: Dress up for the event you wish you were attending instead
+- Invites: Sent
+- Current headcount: 14-15 yeses so far, with more invites planned
 - Food and drinks: Snacks provided; guests encouraged to bring drinks
 - Activities: Games from holidays that are not on August 1
 
 ## Partiful description
 
 See [partiful-description.md](partiful-description.md) for the current event copy.
+
+## Planning docs
+
+- [Shopping list](shopping-list.md)
+- [Activities and run of show](activities.md)
 
 ## Costume ideas
 
@@ -39,9 +46,8 @@ See [partiful-description.md](partiful-description.md) for the current event cop
 ## Planning checklist
 
 - Confirm time
-- Confirm location
 - Build guest list
-- Send Partiful
+- Send Partiful: done
 - Decide snack plan
 - Decide drink plan and what guests should bring
 - Pick "wrong holiday" games

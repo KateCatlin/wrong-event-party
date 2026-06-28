@@ -1,0 +1,3 @@
+# Keep private, location-specific, or guest-specific notes out of the public repo.
+private/
+private-notes.md
