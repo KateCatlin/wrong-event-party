@@ -70,34 +70,40 @@ Optional only if guests are likely to bring spirits: a small amount of soda wate
 
 ## Core activity supplies
 
-### Arrival registration and wrong-event passports
+### Arrival registration
 
-- Name tags: 25-30, labeled `The event I thought this was: ______`
-- Passport/index cards: 25-30
-- Raffle tickets, stickers, stamps, or paper slips: 150 for 15; 250 for 25
-- Ballots: 30-40, or use index cards
-- Ballot/prize bowls or cups: 2-3
+- Name tags: 25-30, labeled `I'm here for the __________ event`
+- Thick markers: 8-12
 - Sign: `Registration / Explain Yourself`
-- Optional lanyards or badge holders: 15 for current count; 25 if leaning into conference energy
+- Bowl or container for raffle tickets
 - Bell, whistle, spoon-and-glass, or other attention-getter
 - Timer or phone alarm
 
-### St. Patrick's Day bean bag toss: Annual Shamrock Invitational
+Raffle tickets come primarily from the Easter egg hunt.
 
-Use the existing **St. Patrick's Day bean bag toss banner** as the wrong-holiday carnival station; do not buy a second banner unless it is missing or damaged.
+### Easter egg hunt with raffle tickets
+
+- Plastic eggs: 40-60 for 15 guests; 60-80 for 25
+- Raffle tickets: 100-150 for 15 guests; 150-225 for 25
+- 5-8 special eggs with extra tickets or prize slips
+- Optional candy, stickers, or tiny treats
+- One raffle bowl or ticket container
+
+### St. Patrick's Day bean bag toss through the banner
+
+Use the existing **St. Patrick's Day bean bag toss banner**; do not buy a replacement unless it is missing or damaged.
 
 - Bean bags or other soft tossables: 6-8
-- Painter's tape for three throw lines: `Kids' Birthday`, `Corporate Offsite`, `Olympic Qualifier`
-- Scorecards or tally sheet
-- Tickets/stickers/stamps for scoring
-- Small prizes: ribbon, medal, tiny trophy, candy, green beads, or novelty shamrock item
+- Painter's tape for throw lines: `Kids' Birthday`, `Corporate Offsite`, `Olympic Qualifier`
+- Score sheet and pen
+- Small prize: ribbon, medal, tiny trophy, candy, green beads, or shamrock item
 - Optional sign: `Annual Shamrock Invitational, Somehow`
 
-### Costco grand opening photo backdrop
+### Walgreens photo backdrop
 
-Order the winning photo setup as an **8x10 ft matte Costco grand opening backdrop**. Before printing, proof the final file for readable text/artifacts and use the highest-resolution export/upscale available; matte fabric or matte vinyl is preferred to reduce glare.
+Order the selected **8x10 ft Walgreens photo backdrop**. Proof the final file at full size, use the highest-resolution export available, and choose matte fabric or matte vinyl to reduce glare.
 
-- 8x10 ft printed backdrop
+- 8x10 ft printed Walgreens backdrop
 - Backdrop hanger/stand/crossbar sized for 8x10 ft
 - Clamps, grommets, pole pocket, or backdrop clips
 - Weights/sandbags for the stand
@@ -106,28 +112,31 @@ Order the winning photo setup as an **8x10 ft matte Costco grand opening backdro
 - Soft front light or ring light
 - Phone tripod or camera stand
 - Extension cord, battery pack, and chargers if needed
-- Prop microphone, clipboard, fake press badge, fake ribbon-cutting scissors, or empty frame
-- Optional red runner/red tablecloth for a fake grand-opening photo spot
+- Prop microphone, clipboard, fake press badge, shopping bag, ribbon-cutting scissors, or oversized coupon
 
-### Wrong Event Permit Hearing / Costume Courtroom
+### New Year's countdown and kiss
 
-- Fake gavel, toy hammer, wooden spoon, or other official-looking noisemaker
-- One `Witness Stand` or `Permit Office` sign
-- Prompt cards: `State your event`, `Make one demand`, `Compliment Kate`, `Present evidence`
+- Party hats: 20-25
+- Noisemakers, bells, or safe noise-makers: 15-25
+- Countdown music or timer
+- Cups
+- Sparkling water, cider, or another celebratory non-alcoholic drink
+- Optional easy-clean confetti or streamers
+
+### Egg drop contest
+
+- Raw eggs: 1 per team plus 2-4 spares
+- Straws: 2-3 packs
+- Masking or painter's tape: 2-3 rolls
+- Paper/cardstock: 1-2 packs or recycled sheets
+- Paper cups: 25-30
+- Paper bags or plastic bags
+- Bubble wrap, tissue paper, or newspaper
+- Cardboard scraps
+- Scissors: 6-8
+- Tarp, cardboard, or other easy-clean drop-zone covering
 - Timer
-- Ballots/tickets for objections, endorsements, and verdicts
-- Prize envelopes or certificates labeled `Approved Event`, `Denied With Flair`, and `Most Official Nonsense`
-- Optional robe, sunglasses, judge hat, or clipboard for the host
-
-### Optional full-run add-on activities
-
-Buy these only if running the longer activities plan instead of keeping games mostly to bean bag toss, photos, permit hearing, and awards.
-
-- Easter Egg Hunt in August: 40-75 plastic eggs for 15; 100 for 25; candy/stickers/tiny toys/prompt slips; 5-8 golden eggs
-- Valentine's Compliment Circuit: 25-50 paper hearts or index cards
-- New Year's Countdown at the Wrong Time: 25 party hats/noisemakers, or enough for guests who want them
-- Rapid White Elephant in Summer: 10-15 wrapped host gifts for 15; 12-15 raffle gifts for 20-25
-- Corporate Retreat Golf backup: cup, ball, tape, scorecard, broom/wrapping-paper tube/toy club
+- Measuring tape or a marked drop-height guide
 
 ## Awards and prizes
 
@@ -218,6 +227,9 @@ Do this the day before or day of after the latest headcount.
 - Sparkling water, still water, and fun NA drink
 - Cups, plates, napkins, utensils
 - Trash bags, paper towels, wipes, and toilet paper
-- Bean bags/soft tossables if not already confirmed
-- Backdrop clamps/weights/tape and photo light/charger checks
+- Plastic eggs and raffle tickets if not already purchased
+- Bean bags/soft tossables and St. Patrick's Day banner check
+- Egg-drop eggs, tape, straws, paper, and drop-zone covering
+- Walgreens backdrop clamps/weights/tape and photo light/charger checks
+- New Year's hats, noisemakers, cups, and celebratory NA drinks
 - Extra prize or trophy if a new award category becomes obvious

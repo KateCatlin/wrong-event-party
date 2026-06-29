@@ -108,7 +108,7 @@ Public-safe execution plan for Kate's 8/1 birthday party. Theme: **dress for the
 
 ### Photo / Costume Zone
 
-- One intentionally staged backdrop or clean wall area.
+- The selected 8x10 Walgreens backdrop, securely hung and fully lit.
 - Props: event signs, fake wristbands, name tags, medals, bouquet, conference badge, sports pennant, birthday sash, or anything that reinforces "wrong event."
 - Use this zone early before outfits get rumpled.
 
@@ -203,17 +203,20 @@ Assign these to trusted guests if needed:
 
 ### Easy Theme Activities
 
-- **Wrong Event Roll Call:** guests announce the event they wish they were attending.
-- **Best Wrong Event Photo:** informal photo contest with categories like "most committed," "most confusing," and "most likely to be escorted out."
-- **Event Mixer Cards:** prompt cards such as "find someone dressed for a more formal event than you" or "find the person most prepared for rain."
-- **Toast From the Wrong Event:** quick optional toast as if this were a wedding, conference, award show, sports banquet, or retirement party.
+- **Wrong-Event Name Tags:** guests write "I'm here for the __________ event."
+- **Walgreens Photo Station:** take individual, pair, and group photos throughout the night.
+- **Easter Egg Hunt:** raffle tickets inside the eggs feed the final prize drawing.
+- **St. Patrick's Day Bean Bag Toss:** use the existing banner as a drop-in carnival station.
+- **Egg Drop Contest:** team build, presentation, and safe drop.
+- **New Year's Countdown and Kiss:** run at the midpoint of the actual party.
 
 ### Activity Timing
 
-- Start with passive photo prompts during arrivals.
-- Do the first structured activity once at least half the expected guests have arrived.
-- Keep each hosted moment under 10 minutes unless the group clearly wants more.
-- Save one final photo or award moment for the last hour.
+- Start with name tags and passive Walgreens photo prompts during arrivals.
+- Do the egg hunt once at least half the expected guests have arrived.
+- Run the bean bag toss as a drop-in station while people mingle.
+- Schedule the egg drop before the midpoint countdown.
+- Save the raffle drawing and final group photo for the last hour.
 
 ## Music and Photo Moments
 

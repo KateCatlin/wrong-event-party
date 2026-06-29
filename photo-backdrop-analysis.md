@@ -2,9 +2,15 @@
 
 Goal: pick the backdrop that is funniest for a "dress for the wrong event" party while still making people look good in photos. The print will be 8x10 feet on a backdrop hanger.
 
+## Final party decision
+
+**Selected backdrop: Walgreens.**
+
+This is the final host decision for the party and supersedes the provisional ranking below. Use the Walgreens design for the 8x10 print; the earlier comparison is retained as reference for the tradeoffs considered.
+
 ## Recommendation
 
-**Winner: Costco grand opening.**
+**Original provisional winner: Costco grand opening.**
 
 It has the clearest instant joke, the broadest audience recognition, the most flattering party colors, and the best "why are you dressed like that here?" contrast for guests in mixed costumes. It also avoids alcohol as the central joke, which fits the current party vibe.
 
@@ -99,10 +105,10 @@ It has the clearest instant joke, the broadest audience recognition, the most fl
 - **Lighting:** Put soft light in front of guests and keep them 1-2 feet away from the backdrop to reduce shadows.
 - **Camera framing:** Mark the floor where people should stand so the top headline/logo remains visible above heads. For Costco, center guests under the logo and in front of the ribbon, with the cart/hot dog sign as side detail.
 
-## Tweaks to make the Costco winner better
+## Print notes for the selected Walgreens backdrop
 
 - Clean up small AI text artifacts, especially product labels and any misspelled side copy.
 - Reduce or simplify a few tiny balloon/sign slogans so the main joke reads faster in photos.
-- Keep "GRAND OPENING" and the main warehouse/wholesale joke high enough to stay visible behind groups.
-- If the printer is sensitive about real trademarks, make a parody version that still reads as a warehouse-club grand opening without relying on exact brand marks.
+- Keep the main Walgreens grand-opening text high enough to stay visible behind groups.
+- If the printer is sensitive about real trademarks, make a parody version that still reads as a pharmacy or retail grand opening without relying on exact brand marks.
 - Consider adding a small blank or lower-detail center standing zone so busy costumes do not fight the background.

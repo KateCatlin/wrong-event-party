@@ -12,7 +12,7 @@ A planning workspace for Kate's August 1 birthday party: a "dress for the wrong 
 - Invites: Sent
 - Current headcount: 14-15 yeses so far, with more invites planned
 - Food and drinks: Simple delivery/snack plan, non-alcohol-forward basics, and guests encouraged to bring drinks
-- Activities: Aggressively hosted holiday/event-themed games from dates that are not August 1
+- Activities: Easter egg raffle hunt, St. Patrick's Day bean bag toss, Walgreens photo station, New Year's countdown/kiss, and an egg drop contest
 
 ## Partiful description
 
@@ -55,23 +55,21 @@ See [partiful-description.md](partiful-description.md) for the current event cop
 - Build guest list
 - Send Partiful: done
 - Choose final food order from the food plan
-- Order the winning photo backdrop
-- Choose final activity lineup
+- Order the Walgreens photo backdrop
+- Buy supplies for the Easter egg hunt, bean bag toss, egg drop, and New Year's countdown
 - Decide whether to skip or hire Christmas carolers
 - Decide final decorations and awards
 - Decide music
 - Buy supplies
 
-## Game ideas to explore
+## Confirmed activities
 
-- White Elephant in August
-- Easter egg hunt in August
-- Halloween trick-or-treat bowl
-- New Year's countdown at a random time
-- Valentine's card exchange
-- St Patrick's Day coin hunt
-- Thanksgiving "what are you grateful for?" prompt, but silly
-- Birthday party games that clash with the costumes
+- Arrival name tag: `I'm here for the __________ event`
+- Easter egg hunt with raffle tickets inside
+- St. Patrick's Day bean bag toss through the existing banner
+- Walgreens photo backdrop station
+- Egg drop contest
+- New Year's countdown and kiss halfway through the night
 
 ## Notes
 

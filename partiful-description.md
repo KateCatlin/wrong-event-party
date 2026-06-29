@@ -28,4 +28,4 @@ Need inspiration? See this Instagram post I stole this idea from: https://www.in
 
 We'll provide some snacks and such but would be great if you could also bring drinks!
 
-There will also be some fun games from holidays that are not on this date.
+There will also be some fun games and event activities that are not on this date.

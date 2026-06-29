@@ -2,640 +2,278 @@
 
 Theme: **dress for the wrong event**. Guests arrive dressed for the party, holiday, meeting, ceremony, or disaster they wish they were attending instead.
 
-The hosting style should be structured, loud, and a little bossy, but never mandatory. The ideal vibe is: "You are being lovingly forced through a nonsense civic calendar."
+This is the final activity lineup for 15-25 guests. It is structured and highly hosted, but participation stays optional and there are no drinking-game mechanics.
 
-Designed for **15-25 guests**. Food and snacks can stay available the whole time; games should move fast enough that people can keep mingling.
+## Arrival: wrong-event name tags
 
-## The core mechanic: wrong-event passport
+Give each guest one name tag when they arrive:
 
-Give every guest two things at arrival:
+> I'm here for the __________ event.
 
-1. A name tag:
+Guests fill in the event they thought they were attending.
 
-   > The event I thought this was: ______
+As each person arrives:
 
-2. A small "passport" or index card with spaces for stamps/tickets:
+- Ask why they are dressed for that event.
+- Take or encourage a photo at the Walgreens backdrop.
+- Point them toward food, drinks, and the first activity.
+- Explain that raffle tickets found in the eggs go into the raffle bowl for the final drawing.
 
-   - Arrival registration
-   - Easter in August
-   - Valentine's compliments
-   - Halloween courtroom
-   - New Year's countdown
-   - White Elephant
-   - Prom awards
+Good prompts:
 
-Use stickers, stamps, or raffle tickets as points. Guests can win tickets from games, then use them for final prize drawings or bragging rights.
+- "Who invited you to this event?"
+- "What are you most worried you will miss?"
+- "What is the dress code where you thought you were going?"
+- "How far did you travel to get here from that event?"
 
-## Host kit
+## Final lineup
 
-Prepare once, then run everything from one command station.
-
-- 25 name tags
-- 25 passport cards or index cards
-- Pens and Sharpies
-- 100-150 raffle tickets, stickers, or paper slips
-- Ballot slips and 1-2 bowls/cups for voting
-- Timer or phone alarm
-- Bell, whistle, spoon-and-glass, or other attention-getter
-- Playlist/speaker if desired
-- 40-75 plastic eggs
-- 50-100 plastic coins or paper coins
-- 10-15 tiny wrapped White Elephant gifts
-- Paper hearts for Valentine's compliments
-- Party hats/noisemakers for New Year's
-- A fake gavel, toy hammer, or wooden spoon for Halloween Court
-- A cup, tape, ball, and broom/wrapping-paper tube/toy club for Corporate Retreat Golf
-- Cheap prizes: ribbons, medals, candy, tiny trophies, silly sashes, crowns, novelty socks, ornaments, stickers, or one aggressively ugly grand prize
-
-## Setup before guests arrive
-
-1. **Command station:** tickets, pens, ballots, timer, prize pile, host notes.
-2. **Check-in station:** name tags, passports, and a sign that says "What event did you think this was?"
-3. **Prize table:** visible enough to make people care, silly enough that nobody gets competitive in a real way.
-4. **Egg hunt:** hide eggs only in search-approved areas. Put 2-3 eggs per expected guest, plus 5-8 golden eggs.
-5. **Courtroom:** set one chair as the witness stand and one chair as the judge's bench.
-6. **White Elephant pile:** wrap host-provided gifts so guests do not need to bring anything extra.
-7. **Prom ballot bowl:** leave ballots out from the beginning so people can nominate looks all night.
-
-If hosting solo, recruit two guests during arrival:
-
-- **Bailiff/scorekeeper:** tracks tickets and calls names.
-- **Prize goblin:** hands out awards and keeps the wrapped gifts moving.
-
-## Scoring and prizes
-
-Keep the scoring transparent but unserious.
-
-- Everyone gets **1 ticket** for checking in with a wrong-event identity.
-- Each main game awards:
-  - 3 tickets: winner
-  - 2 tickets: runner-up
-  - 1 ticket: best commitment to the bit
-- Golden eggs, dramatic toasts, courtroom objections, or great compliments can earn bonus tickets.
-- Final Prom Awards are crowd-voted by ballot.
-- End with both:
-  - **Prize drawing:** each ticket is one raffle entry.
-  - **Host awards:** host can override democracy for fun.
-
-Suggested awards:
-
-- Best Wrong Event
-- Most Committed to the Bit
-- Most Confusing Arrival
-- I Wish I Were at That Event Too
-- Most Legally Defensible Costume
-- Best Seasonal Mismatch
-- Best Corporate Synergy
-- Best Use of a Prop
-- Best Group Lore
-- Most Likely to Leave for a Better Party
-
-## Recommended run of show
-
-This creates about **2 hours of hosted structure** after arrival, with flexible mingling before and after.
-
-| Time | Activity | Host goal |
+| Timing | Activity | Purpose |
 | --- | --- | --- |
-| 0:00-0:35 | Arrival and wrong-event registration | Get everyone labeled, photographed, and in character. |
-| 0:35-0:45 | Opening ceremony | Explain the fake calendar and ticket system. |
-| 0:45-1:05 | Easter Egg Hunt in August | Make everyone move around and compete immediately. |
-| 1:05-1:20 | Valentine's Compliment Circuit | Force wholesome chaos and cross-group mingling. |
-| 1:20-1:45 | Halloween Costume Courtroom | Put the best outfits on trial. |
-| 1:45-1:55 | New Year's Countdown at the Wrong Time | Reset energy with a loud group moment. |
-| 1:55-2:20 | Rapid White Elephant in Summer | Give people props and petty drama. |
-| 2:20-2:35 | Prom Awards finale | Crown winners, give prizes, take group photos. |
-| 2:35+ | Optional station games | Keep aggressive hosting available without trapping everyone. |
+| Arrival | Wrong-event name tags and Walgreens photo station | Establish the joke and capture costumes early. |
+| Early party | Easter egg hunt with raffle tickets inside | Get everyone moving and seed the final prize drawing. |
+| After the egg hunt | St. Patrick's Day bean bag toss | Use the existing banner as an absurd wrong-holiday carnival game. |
+| Before the midpoint | Egg drop contest | Add a competitive, chaotic build challenge that is not holiday-themed. |
+| Halfway through the night | New Year's countdown and kiss | Create a loud shared moment and reset the party energy. |
+| Throughout / finale | Walgreens photos and raffle drawing | Keep photos open all night and finish with prizes. |
 
-If the group is still warming up, delay the first game by 10-15 minutes. If the group is high-energy, start on time and keep ringing the bell like a camp counselor.
+The midpoint countdown should happen halfway through the **actual party**, not necessarily halfway through the activity block. For example, if the party runs 7:00-11:00, celebrate New Year's around 9:00.
 
-## 0:00-0:35 - Arrival and wrong-event registration
+## 1. Easter egg hunt with raffle tickets
 
-**Materials**
+### Premise
 
-- Name tags
-- Passport cards
-- Pens
-- Tickets/stickers
-- Ballot slips
+Easter has arrived several months late, and it brought the party's prize economy with it.
 
-**Rules**
+### Materials
 
-1. Each guest writes the event they thought they were attending on their name tag.
-2. Host asks each guest one question: "Why are you dressed for that?"
-3. Guest gets 1 ticket for having a wrong-event identity.
-4. Host takes or encourages a quick photo of each look for later awards.
-
-**Good arrival prompts**
-
-- "Who invited you to this obviously incorrect event?"
-- "What time does your real event start?"
-- "What are you most worried you'll miss?"
-- "What is the dress code where you think you are?"
-
-**Variant for late arrivals**
-
-Late guests must enter as if they are interrupting the wrong event: wedding objection, graduation speech, business keynote, halftime show, jury duty, etc. Award 1 bonus ticket for commitment.
-
-## 0:35-0:45 - Opening ceremony
-
-**Materials**
-
-- Bell/whistle
-- Ticket stack
-- Prize examples
-
-**Host script**
-
-> Welcome to Kate's birthday and to every other event that is not happening today. You will be subjected to a hostile calendar of holidays, ceremonies, and corporate programming. Participation is encouraged, heckling is allowed if clever, and prizes are mostly emotionally worthless.
-
-**Rules to announce**
-
-- Stay in character when possible.
-- Cheer for everything.
-- Games are short; if you sit one out, you can still vote or heckle.
-- Tickets enter the final prize drawing.
-- Prom Award ballots stay open until the finale.
-
-**Opening roll call**
-
-Go around quickly. Each person says:
-
-> "I'm dressed for ______ because ______."
-
-Cap each intro at 10 seconds. Award 1 bonus ticket to the most immediately unhinged explanation.
-
-## 0:45-1:05 - Easter Egg Hunt in August
-
-A fast physical game that immediately makes the party feel over-hosted.
-
-**Materials**
-
-- 40-75 plastic eggs
-- Candy, stickers, tiny toys, or paper prompts
-- 5-8 golden eggs
+- 40-60 plastic eggs for 15 guests; 60-80 for 25
+- 100-150 raffle tickets for 15 guests; 150-225 for 25
+- 5-8 special eggs with extra tickets or a small prize slip
+- One bowl or container for collected raffle tickets
 - Timer
-- Tickets
+- Optional small candy or stickers so not every egg is only paper
 
-**Setup**
+### Setup
 
-Fill eggs with either small treats or prompt slips. Examples:
+- Put 1-3 raffle tickets in most eggs.
+- Put 5-10 tickets or a small bonus prize in the special eggs.
+- Hide eggs in safe, visible-enough areas.
+- Keep a few eggs at an accessible height so participation does not require crawling or climbing.
+- Put the raffle bowl at the finish point.
 
-- "Give a New Year's toast."
-- "Object in Halloween Court."
-- "Give someone a Valentine."
-- "Trade this egg for a mystery prize."
-- "Explain your outfit like a corporate KPI."
-- "Nominate someone for Prom Royalty."
+### Rules
 
-Golden eggs are worth bonus tickets or a tiny prize.
+1. Announce a three-minute hunt.
+2. Each guest may collect up to five eggs.
+3. Guests open their eggs at the finish point and put the raffle tickets in the bowl.
+4. Special eggs are opened publicly.
+5. The raffle is drawn later, after everyone has had time to arrive and participate.
 
-**Rules**
+For 20-25 guests, run in teams or extend the hunt by two minutes rather than adding many more eggs.
 
-1. Everyone starts behind an imaginary starting line.
-2. Host announces a **3-minute hunt**.
-3. Each guest may keep up to **5 eggs** so one fast person cannot wipe out the field.
-4. Golden eggs must be opened publicly.
-5. Prompt eggs earn a ticket only if the guest performs the prompt.
+### Host script
 
-**Scoring**
+> Easter has been rescheduled to August 1 because apparently the calendar is no longer enforceable. Find your eggs, collect your raffle tickets, and do not ask why there are prizes at a birthday party.
 
-- 1 ticket for participating
-- 1 ticket per golden egg
-- 1 ticket for completing a prompt
-- 3 tickets for "most Easter behavior in August"
+### Safety and backup
 
-**Variants**
+- Do not hide eggs anywhere guests need to climb, move furniture, or enter private areas.
+- If a full hunt is impractical, scatter eggs in one visible zone and make it a 60-second speed round.
+- If eggs run out, use folded raffle-ticket envelopes.
 
-- **Team hunt:** for 20-25 guests, teams of 3-4 share a basket and can keep 10 total eggs.
-- **Reverse hunt:** guests hide one egg and the host has 90 seconds to find them while everyone screams unhelpful advice.
-- **Tabletop hunt:** if people are not mobile or the game area is tight, scatter eggs visibly and make the challenge trivia-based instead.
+## 2. St. Patrick's Day bean bag toss
 
-**Backup**
+### Premise
 
-If the egg hunt feels too chaotic, turn it into "Easter Egg Auction": guests bid tickets on unopened eggs, then reveal prizes/prompts.
+The St. Patrick's Day carnival has arrived at the wrong party and expects a serious athletic competition through the banner's target openings.
 
-## 1:05-1:20 - Valentine's Compliment Circuit
+### Materials
 
-A wholesome speed-round that makes strangers talk and gives the best costumes more material.
+- Existing St. Patrick's Day bean bag toss banner
+- 6-8 bean bags or other soft tossables
+- Painter's tape for throw lines
+- Simple score sheet and pen
+- Optional green beads, ribbon, medal, or tiny trophy
 
-**Materials**
+### Setup
 
-- Paper hearts or index cards
-- Pens
+- Hang the St. Patrick's Day banner securely with its target openings unobstructed.
+- Mark three throw lines:
+  - **Kids' Birthday**
+  - **Corporate Offsite**
+  - **Olympic Qualifier**
+- Keep the toss lane clear of food, drinks, costumes, and the photo station.
+
+### Rules
+
+1. Each guest gets three throws.
+2. Guests choose their difficulty by choosing a throw line.
+3. The goal is to throw the bean bag through the banner's target openings.
+4. The host announces a wrong-event style before each round:
+   - "Throw like you are late to a wedding."
+   - "Throw like this is a board meeting icebreaker."
+   - "Throw like your team is in the finals."
+5. Record the score, but reward the funniest commitment as much as accuracy.
+
+### Awards
+
+- Most Athletic Miscommunication
+- Best Wrong-Event Throwing Form
+- Most Serious Person at a Bean Bag Carnival
+
+### Host script
+
+> The St. Patrick's Day bean bag tournament has been double-booked with Kate's birthday. Please throw with the dignity of the event you meant to attend.
+
+## 3. Egg drop contest
+
+### Premise
+
+A science fair, engineering challenge, and corporate innovation summit have all mistakenly convened at the birthday party.
+
+### Materials
+
+- 1 raw egg per team, plus 2-4 spare eggs
+- Straws
+- Masking or painter's tape
+- Paper and cardstock
+- Paper cups
+- Paper bags or plastic bags
+- Bubble wrap, tissue paper, or newspaper
+- Cardboard scraps
+- Scissors
+- Tarp, cardboard, or other easy-clean drop-zone covering
 - Timer
-- Ballot bowl
+- Measuring tape or a marked drop height
 
-**Setup**
+### Setup
 
-Have guests form two lines facing each other, or small circles of 4-5 if the group is large.
+- Make teams of 2-4 people.
+- Give each team the same basic supply bundle.
+- Set a build limit of 10-15 minutes.
+- Choose one drop height and announce it before building begins.
+- Keep the drop zone away from food, drinks, and costumes.
 
-**Rules**
+### Rules
 
-1. Pair up for 60-90 seconds.
-2. Each person gives the other person an over-the-top compliment about their wrong-event look.
-3. Compliments must be specific, dramatic, and tied to the event they thought they were attending.
-4. Rotate partners for 4 rounds.
-5. After the final round, everyone writes one anonymous Valentine nomination.
+1. Teams build a container to protect one egg.
+2. Every team presents its design as if pitching at a science fair or startup demo day.
+3. Drop each egg from the same height.
+4. A surviving egg earns the main win.
+5. If multiple eggs survive, judge the best design presentation and funniest wrong-event explanation.
 
-**Example compliments**
+### Awards
 
-- "Your jury-duty cardigan says you would convict me fairly."
-- "You look like the most emotionally available pirate at the regatta."
-- "Your prom energy is devastatingly municipal."
+- Best Engineering
+- Most Overfunded Solution
+- Most Beautiful Failure
+- Best Corporate Innovation Pitch
+- Egg of the Year
 
-**Scoring/voting**
+### Host script
 
-- 1 ticket for participating
-- 2 tickets for best compliment, chosen by applause
-- 2 tickets for best reaction to a compliment
-- Valentine nominations feed into Prom Awards
+> Welcome to the emergency Egg Drop Innovation Summit. Your challenge is to protect one egg using materials that were clearly purchased for a different event.
 
-**Variants**
+### Safety and cleanup
 
-- **Secret Valentine:** guests draw a name and must compliment that person before the finale.
-- **Petty Valentine:** compliments must sound nice but describe something bizarre.
-- **Corporate Valentine:** compliments must be phrased as performance feedback.
+- Use a contained, designated drop zone and a tarp.
+- Do not throw eggs; all drops happen from the marked height.
+- Keep spare cleanup supplies nearby.
+- If raw eggs are too messy, use plastic ornaments or ping-pong balls and call it a prototype round.
 
-**Backup**
+## 4. Walgreens photo backdrop
 
-If people are too chatty to line up, leave paper hearts out as an open station: write anonymous compliments and drop them in a bowl. Read the best ones during awards.
+### Premise
 
-## 1:20-1:45 - Halloween Costume Courtroom
+Guests have arrived at a Walgreens opening, promotional event, or deeply confusing retail photo opportunity instead of Kate's birthday.
 
-The most important hosted bit. Guests defend why their outfit is the wrongest possible outfit for this birthday party.
+### Setup
 
-**Materials**
+- Hang the selected 8x10 Walgreens backdrop securely.
+- Add soft front lighting and a phone tripod.
+- Keep guests 1-2 feet in front of the backdrop so shadows stay manageable.
+- Put a few props nearby: fake microphone, clipboard, press badge, shopping bag, ribbon-cutting scissors, trophy, or oversized coupon.
+- Mark a standing area so the main backdrop text stays visible.
 
-- Chair for witness stand
-- Fake gavel/spoon
-- Tickets
-- Optional robe, sunglasses, or judge hat
+### Photo prompts
 
-**Roles**
+- "Pose like you just realized this is not your event."
+- "Take one grand-opening photo."
+- "Take one serious corporate headshot."
+- "Take one family holiday-card photo."
+- "Take one photo as if Walgreens just hired you as a spokesperson."
 
-- **Judge:** host
-- **Bailiff:** loud guest who calls defendants
-- **Defendant:** person on trial
-- **Jury:** everyone else
+Keep the station open throughout the night. Take individual photos during arrivals, pairs during mingling, and a full group photo before people leave.
 
-**Charges**
+## 5. New Year's countdown and kiss
 
-Use fake legal charges like:
+### Premise
 
-- Aggravated Seasonal Confusion
-- Intent to Attend a Better Event
-- First-Degree Calendar Fraud
-- Possession of Unlicensed Theme Energy
-- Impersonating a Holiday
-- Failure to Dress for the Actual Occasion
+It is midnight in a completely different time zone, and everyone has been asked to celebrate immediately.
 
-**Rules**
-
-1. Call 6-8 volunteers or nominees to the stand.
-2. Each defendant gets 45 seconds to defend their outfit.
-3. The judge may ask one follow-up question.
-4. One audience member may object, but only if the objection is funny.
-5. Jury votes by applause after each defense.
-
-**Scoring/voting**
-
-- 3 tickets: Not Guilty by Reason of Commitment
-- 2 tickets: Best Legal Argument
-- 1 ticket: Best Objection
-- 1 ticket: Best Witness Testimony
-
-**Variants**
-
-- **Class action lawsuit:** groups in matching or related costumes defend together.
-- **Surprise evidence:** host presents a prop and defendant must explain why it proves their innocence.
-- **Hostile cross-exam:** the judge asks rapid questions for 30 seconds.
-
-**Backup**
-
-If people do not want to perform solo, make it team-based: each table/group nominates one outfit and collectively gives the defense.
-
-## 1:45-1:55 - New Year's Countdown at the Wrong Time
-
-A short, loud reset between bigger games.
-
-**Materials**
+### Materials
 
 - Party hats
-- Noisemakers or anything that can make noise
-- Countdown song or timer
-- Cups/drinks if guests have them
-- Tickets
+- Noisemakers, bells, or anything safe to make noise
+- Countdown music or timer
+- Sparkling water, cider, or another celebratory non-alcoholic drink
+- Cups
+- Optional confetti or streamers that are easy to clean up
 
-**Setup**
+### Timing
 
-Pick an arbitrary time and announce that it is now midnight in the wrong dimension.
+Do this halfway through the actual party, once most guests have arrived and before energy starts to dip. Announce it five minutes ahead so people can gather.
 
-**Rules**
+### Rules
 
-1. Hand out hats/noisemakers.
-2. Everyone writes or invents a resolution for the event they thought they were attending.
-3. Do a full 10-second countdown.
-4. Guests cheer, toast, high-five, or dramatically celebrate.
-5. Read 3-5 resolutions aloud.
+1. Announce that midnight has arrived early.
+2. Hand out hats and noisemakers.
+3. Ask everyone to choose a resolution for the event they thought they were attending.
+4. Run a full ten-second countdown.
+5. At zero, cheer, make the New Year's kiss moment, and toast to Kate.
+6. Read a few resolutions aloud afterward.
 
-**Resolution prompts**
+For the kiss: guests may kiss a partner or consenting person, or choose a cheek kiss, air kiss, hug, high-five, or dramatic solo celebration. Keep it celebratory and never pressure anyone to pair up.
+
+### Host script
+
+> It is midnight for reasons we are not authorized to explain. Please find your celebratory beverage, prepare your wrong-event resolution, and get ready to kiss or otherwise commemorate the arrival of the new year.
+
+### Resolution prompts
 
 - "This fiscal year, I resolve to..."
-- "At next year's prom, I will..."
-- "Before the next pirate summit, I promise..."
-- "In this new era of jury duty, I shall..."
+- "At my actual event, I will..."
+- "By the next Walgreens grand opening, I promise..."
+- "Before the next St. Patrick's Day tournament, I shall..."
 
-**Scoring/voting**
+## Raffle and finale
 
-- 1 ticket for participating
-- 2 tickets for best resolution
-- 2 tickets for most committed countdown behavior
-- 1 ticket for best noisemaker improvisation
+Draw raffle tickets from the Easter egg hunt after the main activities. Use 3-6 small prizes so multiple people win.
 
-**Variants**
+Possible prizes:
 
-- **Countdown to 8:01:** celebrate the day after 8/1 arriving early.
-- **Countdown to the wrong holiday:** Christmas morning, tax deadline, opening ceremony, finals week, etc.
-- **Silent countdown:** everyone mimes the celebration, then erupts on zero.
-
-**Backup**
-
-If noise needs to stay lower, do a silent disco countdown with exaggerated mime celebration and applause voting.
-
-## 1:55-2:20 - Rapid White Elephant in Summer
-
-Host-provided tiny gifts create holiday confusion without asking guests to bring anything besides themselves.
-
-**Materials**
-
-- 10-15 wrapped gifts
-- Number slips
-- Timer
-- Tickets
-
-**Gift ideas**
-
-- Tiny trophy
-- Holiday ornament
-- Novelty socks
-- Fake medal
-- Toy dinosaur
-- Candy
-- Sticker sheet
-- Mini puzzle
-- Weird mug
-- Dollar-store crown
+- Tiny trophy or medal
+- Fancy candy
+- Novelty sunglasses
 - Temporary tattoos
-- Dramatic office supply
+- Tiny sparkling cider
+- Silly mug
+- Ribbon or sash
+- Guest of Honor's Choice award
 
-**Rules for 15 guests**
+End with a quick group photo at the Walgreens backdrop and one final award for **Most Committed to the Wrong Event**.
 
-1. Everyone who wants in draws a number.
-2. On your turn, unwrap a gift or steal an opened gift.
-3. One steal max per turn.
-4. A gift is frozen after it has been stolen twice.
-5. Each turn has a 30-second limit.
+## If the group is shy
 
-**Rules for 20-25 guests**
+- Make the egg hunt and photo station the first activities.
+- Run the bean bag toss in pairs.
+- Let guests build egg-drop containers in teams.
+- Have the host demonstrate the New Year's kiss moment with an air kiss, toast, or high-five.
 
-Use **Rapid White Elephant Raffle** so it does not take all night:
+## If the group is very energetic
 
-1. Draw 12-15 participants from the ticket bowl.
-2. Non-players become the jury and can cheer, lobby, or heckle.
-3. Same steal rules, but 20 seconds per turn.
-4. Give non-players 1 ticket for best commentary.
-
-**Scoring/voting**
-
-- 3 tickets for best steal speech
-- 2 tickets for most tragic loss
-- 2 tickets for best gift reveal
-- 1 ticket for best heckle from the jury
-
-**Variants**
-
-- **Yankee Swap deposition:** every steal must include a legal justification.
-- **Secret Santa HR violation:** every gift must be described as if it came from an office gift exchange gone wrong.
-- **Holiday hostage negotiation:** the current owner has 10 seconds to plead for the gift not to be stolen.
-
-**Backup**
-
-If attention is fading, skip turn order. Put all wrapped gifts in the middle, draw names for prizes, and require each winner to open dramatically in character.
-
-## 2:20-2:35 - Prom Awards finale
-
-The finale ties the outfits back to the theme and gives the night a clean ending.
-
-**Materials**
-
-- Ballots collected throughout the night
-- Crown, sash, medals, ribbons, or paper certificates
-- Prize tickets/prizes
-- Optional playlist moment
-
-**Setup**
-
-Keep ballots open until 10 minutes before awards. If counting is too much, host and scorekeeper can choose winners based on nominations and crowd energy.
-
-**Rules**
-
-1. Gather everyone.
-2. Read the award category.
-3. Announce nominees if you have them.
-4. Crown the winner.
-5. Winner gives a 10-second acceptance speech as if they are at their intended event.
-
-**Award categories**
-
-- Prom Royalty of the Wrong Event
-- Best Wrong Event
-- Most Committed to the Bit
-- Most Formal for No Reason
-- Most Likely to Actually Leave for That Event
-- Best Seasonal Confusion
-- Best Courtroom Defense
-- Best Valentine
-- Best Corporate Retreat Energy
-- Best Use of a Beverage as a Prop
-- Best Group Lore
-
-**Scoring/voting**
-
-- Crowd ballots decide the main awards.
-- Host may add one "Because I Said So" award.
-- Award winners get first pick from the prize table or 3 extra raffle tickets.
-
-**Backup**
-
-If ballot counting becomes annoying, switch to applause voting by category. Keep it moving: three nominees, one applause vote, crown, next category.
-
-## Optional station games for after the main block
-
-Use these if people want more structure, or set them up as self-serve stations during mingling.
-
-### Corporate Retreat Golf Tournament
-
-**Materials:** cup, tape, ball, broom/wrapping-paper tube/toy club, scorecard.
-
-**Setup:** tape a start line and place the cup as the hole.
-
-**Rules:** each guest gets 2 putts. They must announce a corporate goal before putting.
-
-**Scoring:** lowest score wins. Tie-breaker is best business jargon.
-
-**Prize:** "Q3 Leadership Excellence" ribbon or trophy.
-
-**Variants:** team scramble, blindfolded trust-building putt, mandatory mission statement before each shot.
-
-### St. Patrick's Coin Hunt
-
-**Materials:** plastic coins, paper coins, or wrapped chocolate coins.
-
-**Setup:** hide coins in search-approved areas or scatter them in plain sight for a speed round.
-
-**Rules:** 5-minute hunt. Guests can keep up to 7 coins. Green clothing does not help, but players may claim it should.
-
-**Scoring:** most coins wins; one weirdly marked coin is the lucky coin and beats all ties.
-
-**Prize:** "Most Financially Irish" medal or first raffle draw.
-
-**Backup:** put coins in a bowl and run a guessing game: closest guess wins.
-
-### Thanksgiving Gratitude Circle, But Wrong
-
-**Materials:** none, or slips with prompts.
-
-**Rules:** each person says what they are grateful for at the event they thought they were attending.
-
-**Examples:**
-
-- "I'm grateful this scuba certification had cake."
-- "I'm grateful the board meeting had a dance floor."
-- "I'm grateful my parole hearing included snacks."
-
-**Scoring:** applause for most sincere nonsense.
-
-**Backup:** make it a written prompt and read anonymous answers.
-
-### Birthday Game Collision
-
-Play a classic birthday game while everyone stays in the wrong-event character.
-
-Good options:
-
-- Musical chairs as a wedding reception seating crisis
-- Hot potato as a cursed Secret Santa gift
-- Charades as corporate offsite team-building
-- Pin-the-tail as an Olympic qualifying event
-- Freeze dance as prom chaperone enforcement
-
-Score based on commitment, not athletic ability.
-
-### Murder Mystery Micro-Round
-
-**Premise:** one person secretly came to the correct party, which is obviously suspicious.
-
-**Materials:** 5-7 role cards.
-
-**Roles:** detective, suspect, witness, party crasher, alibi coach, and "the person who came to the correct party."
-
-**Rules:** 5 minutes of questioning, then everyone votes on the culprit.
-
-**Scoring:** detective gets 3 tickets if correct; culprit gets 3 tickets if they survive.
-
-**Backup:** host narrates the mystery and lets the crowd vote without assigning roles.
-
-### Graduation Speech Lottery
-
-Put names in a bowl. Draw 3 people. Each gives a 30-second commencement speech for the event they thought this was.
-
-Suggested prompts:
-
-- "Class of Jury Duty 2026"
-- "Graduates of Pirate Academy"
-- "Fellow attendees of the dentist conference"
-- "To the shareholders of prom"
-
-Winner gets "Most Inspirational Wrong Event."
-
-### Tax Day Audit
-
-Guests must defend one item in their outfit as a deductible expense for their wrong event.
-
-Scoring categories:
-
-- Most suspicious deduction
-- Best receipt story
-- Most likely to be audited
-
-This works well as a quick filler while counting Prom Award ballots.
-
-## Scaling for guest count
-
-### If 15 guests
-
-- Let most games be individual.
-- White Elephant can include everyone.
-- Courtroom can try 6-8 defendants.
-- Compliment circuit can be two facing lines.
-
-### If 20-25 guests
-
-- Use teams for Egg Hunt and Corporate Golf.
-- Limit Courtroom to nominees or volunteers.
-- Use Rapid White Elephant Raffle instead of full participation.
-- Prom Awards should have pre-written categories and quick applause.
-- Give non-players voting, heckling, jury, or scorekeeper roles so they still participate.
-
-## Energy-based backup plans
-
-### If people are shy
-
-Start with Valentine's Compliment Circuit before Courtroom. Compliments are lower-stakes than solo performance.
-
-### If people are very chaotic
-
-Use the bell, shorten every round, and switch to team-based scoring. Do not try to count every ticket perfectly.
-
-### If people are mostly mingling
-
-Convert games into stations:
-
-- Egg prompt bowl
-- Compliment heart station
-- Prom ballot station
-- Corporate Golf hole
-- Coin guessing bowl
-
-Then do only three big hosted interruptions: Opening Ceremony, Halloween Courtroom, and Prom Awards.
-
-### If supplies are missing
-
-- No eggs: use folded paper slips.
-- No tickets: use tally marks on passports.
-- No noisemakers: clap, stomp, or chant.
-- No gifts: turn White Elephant into a prize raffle.
-- No ballots: use applause.
-- No golf supplies: wad paper into a ball and putt with any safe long object.
-
-## Best 90-minute version
-
-If the party needs a shorter hosted block, use this lineup:
-
-1. Arrival registration and passports
-2. Opening roll call
-3. Easter Egg Hunt in August
-4. Halloween Costume Courtroom
-5. New Year's Countdown at the Wrong Time
-6. Prom Awards
-
-Cut Valentine's if people are already mingling well. Cut White Elephant if the group is too large or the energy is too high to sit through turns.
-
-## Host reminders
-
-- Over-explain the bit at the beginning, then keep individual rules short.
-- Reward commitment more than winning.
-- Keep games moving; awkward momentum is worse than imperfect scoring.
-- Let people opt out by becoming judges, jurors, photographers, scorekeepers, or hecklers.
-- Announce the next thing before the current thing fully dies.
-- End with awards while people still have energy.
+- Shorten the egg hunt to two minutes.
+- Run bean bag toss as a tournament.
+- Limit egg-drop presentations to 30 seconds.
+- Use the countdown as a hard reset and move immediately to the raffle.
